@@ -39,12 +39,20 @@ footer{
     padding-top: 130px;
 }
 
-  .top-wrapper h1{
+.top-wrapper h1{
     font-size: 24px;
-  }
+}
   
-  .top-wrapper p{
+.top-wrapper p{
     font-size: 14px;
-  }
+}
+
+.header-right{
+  display:none;
+}
+
+.menu-icon{
+  display: block;
+}
 
 }
